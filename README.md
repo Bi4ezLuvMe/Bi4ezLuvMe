@@ -1,4 +1,4 @@
-<h1 align="center">やあ、私は Lyuboslav Vezenkov</h1>
+<h1 align="center">Lyuboslav Vezenkov</h1>
 
 - 🌱 I’m currently learning **C#,JS,TSQL**
 
