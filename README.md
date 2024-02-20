@@ -1,5 +1,3 @@
-<h1 align="center">Lyuboslav Vezenkov</h1>
-
 - 🌱 I’m currently learning **C#,JS,TSQL**
 
 <h3 align="left">Connect with me:</h3>
