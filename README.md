@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **C#,JS,TSQL**
+I’m currently learning **C#,JS,TSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
