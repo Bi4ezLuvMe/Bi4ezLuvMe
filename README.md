@@ -7,7 +7,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bi4ezluvme&show_icons=true&locale=en&layout=compact" alt="bi4ezluvme" /></p>
 
-<p><img src="https://leetcode-stats-six.vercel.app/?username=Bi4ezLuvMe"/></p>
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bi4ezluvme&show_icons=true&locale=en" alt="bi4ezluvme" /></p>
 
